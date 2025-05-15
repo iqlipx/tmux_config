@@ -4,13 +4,11 @@
 **Git Clone**
 
 ```
-git clone https://github.com/iqlipx/dotfiles.git
+git clone https://github.com/iqlipx/tmux_config.git
 ```
 **Change directory**
 
 ```
-cd dotfiles
-
 cd tmux_config
 ```
 
