@@ -12,10 +12,16 @@ git clone https://github.com/iqlipx/tmux_config.git
 cd tmux_config
 ```
 
-**Give executable permission to install.sh**
+**Give executable permission to install.sh ,localip.sh and vpnIP_VM.sh**
 
 ```
-chmod +x install.sh
+chmod +x *.sh
+```
+
+**Run the installation script**
+
+```
+./install.sh
 ```
 
 **After installation, Open new terminal and type `tmux`**
